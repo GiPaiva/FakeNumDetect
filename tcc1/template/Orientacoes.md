@@ -1,11 +1,8 @@
+# Template de TCC em Ciência da Computação - Senac Santo Amaro
 
-# FakeNumDetect
+Template de Trabalho de Conclusão de Curso (TCC) para o Centro Universitário Senac - Santo Amaro, desenvolvido em LaTeX utilizando a classe `abntex2`.
 
-### Biblioteca Python para Detecção de Anomalias em Dados Numéricos Fabricados usando Métodos Estatísticos e Machine Learning
-
-Trabalho de Conclusão de Curso (TCC) para o Centro Universitário Senac - Santo Amaro, desenvolvido em LaTeX utilizando a classe `abntex2`.
-
-## 📋 Sobre o TCC
+## 📋 Sobre o Template
 
 Este template foi desenvolvido para auxiliar os alunos do curso de **Bacharelado em Ciência da Computação** do Senac Santo Amaro na elaboração de seus Trabalhos de Conclusão de Curso, seguindo as normas da ABNT e os padrões acadêmicos da instituição.
 
@@ -232,7 +229,7 @@ Para dúvidas sobre o template ou formatação:
 
 ## 📄 Licença
 
-Este projeto é licenciado nos termos da licença de open-source pelo PyPI e está disponível de graça.
+Este template é fornecido para uso acadêmico dos alunos do Centro Universitário Senac - Santo Amaro.
 
 ---
 
